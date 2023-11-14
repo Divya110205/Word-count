@@ -1,4 +1,5 @@
-# Word-count
+# EX 5a: Word-count
+## DATE: 26.09.23
 ## AIM:
 To write a python program for getting the word count from a text.
 ## EQUIPEMENT'S REQUIRED: 
